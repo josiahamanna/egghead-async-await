@@ -1,0 +1,23 @@
+{
+  "name": "egghead-async-await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-write-an-asynchronous-function-with-async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nissi-shalom/egghead-async-await.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nissi-shalom/egghead-async-await/issues"
+  },
+  "homepage": "https://github.com/nissi-shalom/egghead-async-await#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
